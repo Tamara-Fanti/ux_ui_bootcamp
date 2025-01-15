@@ -29,6 +29,5 @@ The program has several stages (as usual: one milestone per week) that will allo
 - **Slack Channels**:
   - `#talent_and_career_support`: Find information about ReDI School's global Career Activities.
   - `#job_postings`: Access first-view job postings for the whole ReDI community.
-  - `#bootcamps_job_hunting`: Space for students to exchange, dedicated to sharing resources and best practices related to the job market and the application process.
 - [**ReDI School Talent & Success Hub**](https://sites.google.com/redi-school.org/learnerhub/career-support): Website dedicated to sharing information for all ReDI students about ReDI career activities. Check out in particular the Talent Pool section!
 
